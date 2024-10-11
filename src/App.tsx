@@ -1,3 +1,4 @@
+import './Spinner.css';
 import { useEffect } from "react";
 import CriptoSearchForm from "./components/CriptoSearchForm"
 import { useCryptoStore } from "./store";
